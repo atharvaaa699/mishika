@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What luxury services does LUXE offer?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "LUXE offers a comprehensive range of luxury services including private jet charters, yacht rentals, exclusive property access, personalized jewelry, event planning, and 24/7 concierge services."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How can I contact LUXE's concierge service?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You can reach our concierge service 24/7 via phone at +91 91197 27956, email at mishika.2025.02@gmail.com, or through our WhatsApp chat for immediate assistance."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Does LUXE offer personalized travel planning?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, LUXE provides fully customized travel planning services, including private jet arrangements, luxury accommodations, and exclusive experiences tailored to your preferences."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What makes LUXE's services unique?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "LUXE distinguishes itself through 24/7 availability, unparalleled attention to detail, exclusive access to luxury experiences, and a dedicated team of professional concierges."
+    }
+  }]
+}
